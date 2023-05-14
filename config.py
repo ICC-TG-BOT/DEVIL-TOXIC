@@ -42,7 +42,7 @@ OWNER_ID = list(
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", "d0fea027-5831-437c-9bcd-dfbc9f373fe7")
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
-HEROKU_APP_NAME = getenv("devil-toxic")
+HEROKU_APP_NAME = getenv("papa_ki_pari")
 
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
