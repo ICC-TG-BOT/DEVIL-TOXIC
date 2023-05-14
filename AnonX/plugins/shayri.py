@@ -68,7 +68,7 @@ async def help(client: Client, message: Message):
                     InlineKeyboardButton(
                         "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/indian_chatting_club_offical"),
                     InlineKeyboardButton(
-                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/tha_govind_op")
+                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/one_man_army_14")
                     
                 ]
             ]
@@ -88,7 +88,7 @@ async def help(client: Client, message: Message):
                     InlineKeyboardButton(
                         "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/indian_chatting_club_offical"),
                     InlineKeyboardButton(
-                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/tha_govind_op")
+                        "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/one_man_army_14")
                     
                 ]
             ]
