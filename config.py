@@ -8,8 +8,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "13976276"))
-API_HASH = getenv("API_HASH", "7f024cbc744a2f44569c3641b5ccecb7")
+API_ID = int(getenv("API_ID", "22977869"))
+API_HASH = getenv("API_HASH", "9d8d4686d750b29a6cd2b7c73eb16f26")
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN", "6052195748:AAFpuknQjZ9OOnqoTKoL2515BhhneWW_ZRI")
@@ -130,10 +130,10 @@ SET_CMDS = getenv("SET_CMDS", False)
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
 STRING1 = getenv("STRING_SESSION", "BQBR_95hQkIADWVNug3LfFDmVoRjiliR5p61GoZoqm2YwIcNZMygKGbsSobFy_y8b2xPTmT711KECruJ2z3Lt1w1mlLhF5IuP3lZ7sNIoWZSYUAwCWqij55JZQO7mCAGA19j9yrWxbHcywj_yhhAfJutOmDXps_xVX30va2BqPsLqJWhEAb-H4IJ2XChXThFoXHGwiIUF5s2p677NDqoNvpsJgFJFYafYwo3wvqMitEDnRO3_QdkZ9iLHf60mmRMjgqiTcrNxlbvRsOpVJ5yYcvPhQmZ7Hmxd63faOus-pub5WzA54YERjxKaX3LpHzgAYmwnKYYSiQwTGHUg80UzE-1AAAAAVCToUgA")
-STRING2 = getenv("STRING_SESSION2", "BQBR_95hQkIADWVNug3LfFDmVoRjiliR5p61GoZoqm2YwIcNZMygKGbsSobFy_y8b2xPTmT711KECruJ2z3Lt1w1mlLhF5IuP3lZ7sNIoWZSYUAwCWqij55JZQO7mCAGA19j9yrWxbHcywj_yhhAfJutOmDXps_xVX30va2BqPsLqJWhEAb-H4IJ2XChXThFoXHGwiIUF5s2p677NDqoNvpsJgFJFYafYwo3wvqMitEDnRO3_QdkZ9iLHf60mmRMjgqiTcrNxlbvRsOpVJ5yYcvPhQmZ7Hmxd63faOus-pub5WzA54YERjxKaX3LpHzgAYmwnKYYSiQwTGHUg80UzE-1AAAAAVCToUgA")
-STRING3 = getenv("STRING_SESSION3", "BQBR_95hQkIADWVNug3LfFDmVoRjiliR5p61GoZoqm2YwIcNZMygKGbsSobFy_y8b2xPTmT711KECruJ2z3Lt1w1mlLhF5IuP3lZ7sNIoWZSYUAwCWqij55JZQO7mCAGA19j9yrWxbHcywj_yhhAfJutOmDXps_xVX30va2BqPsLqJWhEAb-H4IJ2XChXThFoXHGwiIUF5s2p677NDqoNvpsJgFJFYafYwo3wvqMitEDnRO3_QdkZ9iLHf60mmRMjgqiTcrNxlbvRsOpVJ5yYcvPhQmZ7Hmxd63faOus-pub5WzA54YERjxKaX3LpHzgAYmwnKYYSiQwTGHUg80UzE-1AAAAAVCToUgA")
-STRING4 = getenv("STRING_SESSION4", "BQBR_95hQkIADWVNug3LfFDmVoRjiliR5p61GoZoqm2YwIcNZMygKGbsSobFy_y8b2xPTmT711KECruJ2z3Lt1w1mlLhF5IuP3lZ7sNIoWZSYUAwCWqij55JZQO7mCAGA19j9yrWxbHcywj_yhhAfJutOmDXps_xVX30va2BqPsLqJWhEAb-H4IJ2XChXThFoXHGwiIUF5s2p677NDqoNvpsJgFJFYafYwo3wvqMitEDnRO3_QdkZ9iLHf60mmRMjgqiTcrNxlbvRsOpVJ5yYcvPhQmZ7Hmxd63faOus-pub5WzA54YERjxKaX3LpHzgAYmwnKYYSiQwTGHUg80UzE-1AAAAAVCToUgA")
-STRING5 = getenv("STRING_SESSION5", "BQBR_95hQkIADWVNug3LfFDmVoRjiliR5p61GoZoqm2YwIcNZMygKGbsSobFy_y8b2xPTmT711KECruJ2z3Lt1w1mlLhF5IuP3lZ7sNIoWZSYUAwCWqij55JZQO7mCAGA19j9yrWxbHcywj_yhhAfJutOmDXps_xVX30va2BqPsLqJWhEAb-H4IJ2XChXThFoXHGwiIUF5s2p677NDqoNvpsJgFJFYafYwo3wvqMitEDnRO3_QdkZ9iLHf60mmRMjgqiTcrNxlbvRsOpVJ5yYcvPhQmZ7Hmxd63faOus-pub5WzA54YERjxKaX3LpHzgAYmwnKYYSiQwTGHUg80UzE-1AAAAAVCToUgA")
+STRING2 = getenv("STRING_SESSION2", "")
+STRING3 = getenv("STRING_SESSION3", "") 
+STRING4 = getenv("STRING_SESSION4", "") 
+STRING5 = getenv("STRING_SESSION5", "")
 
 
 #  __     ___    _ _  ___  _______   __  __ _    _  _____ _____ _____   ____   ____ _______
