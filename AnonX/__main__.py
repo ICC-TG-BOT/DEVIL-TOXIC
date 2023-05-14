@@ -67,8 +67,8 @@ async def init():
     except:
         pass
       await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️ https://t.me/ToXiC_BoY_OFFICIAL ♨️\n╚═════ஜ۩۞۩ஜ════╝"
-    await idle()
+    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️ https://t.me/ToXiC_BoY_OFFICIAL ♨️\n╚═════ஜ۩۞۩ஜ════╝") 
+   await idle()
 
 
 if __name__ == "__main__":
