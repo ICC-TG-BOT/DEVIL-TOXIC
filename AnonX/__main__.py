@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await Anon.start()
     try:
-        await Anon.stream_decall("https://telegra.ph/file/de3464aa7d6bfafdd2dc3.mp4")
+        await Anon.stream_decall("https://te.legra.ph/file/b2258dbee2401c426eb3c.jpg")
     except:
         pass
     try:
         await Anon.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://te.legra.ph/file/b2258dbee2401c426eb3c.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
@@ -66,9 +66,9 @@ async def init():
         sys.exit()
     except:
         pass
-    await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️ https://t.me/ToXiC_BoY_OFFICIAL ♨️\n╚═════ஜ۩۞۩ஜ════╝")
-    await idle()
+      await Anon.decorators()
+    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️ https://t.me/ToXiC_BoY_OFFICIAL♨️\n╚═════ஜ۩۞۩ஜ════╝"
+    await idle()
 
 
 if __name__ == "__main__":
